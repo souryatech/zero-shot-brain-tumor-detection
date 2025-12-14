@@ -18,3 +18,7 @@ https://www.kaggle.com/datasets/pkdarabi/medical-image-dataset-brain-tumor-detec
 ## Training
 To run the training script, please run the training.ipynb notebook.
 
+## Contributors
+
+The group: Sourya Potti, Nathan Tuan, Lauren Kim, and Victor Han. Thank you to our wonderful course instructor Omar Mansour for his knowledge and steady support! Thank you also to the incredibly smart TAs at BWSI who offered their advice and feedback on our ideas: Pitipat K. (Mac) and Andrea Chen!
+
